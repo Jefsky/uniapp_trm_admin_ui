@@ -2,6 +2,7 @@
 	<view class="infopage">
 		<view class="uni-padding-wrap uni-common-mt"><button type="primary" @click="addOrder">addOrder</button></view>
 		<view class="uni-padding-wrap uni-common-mt"><button type="primary" @click="addMsg">addMsg</button></view>
+		<view class="uni-padding-wrap uni-common-mt"><button type="primary" @click="lists">lists</button></view>
 	</view>
 </template>
 
@@ -26,6 +27,11 @@ export default {
 			uni.navigateTo({
 				url: '../addMsg/addMsg'
 			});
+		},
+		lists:function(){
+			uni.navigateTo({
+				url:'../lists/lists'
+			})
 		}
 	}
 };

@@ -7350,6 +7350,23 @@ createPage(_info.default);
 
 /***/ }),
 
+/***/ "C:\\Users\\Administrator.EBQE09GQ7ZCT755\\Documents\\HBuilderProjects\\hello\\main.js?{\"page\":\"pages%2Flists%2Flists\"}":
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator.EBQE09GQ7ZCT755/Documents/HBuilderProjects/hello/main.js?{"page":"pages%2Flists%2Flists"} ***!
+  \************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "C:\\Users\\Administrator.EBQE09GQ7ZCT755\\Documents\\HBuilderProjects\\hello\\pages.json");
+
+var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ "./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mp-vue/dist/mp.runtime.esm.js"));
+var _lists = _interopRequireDefault(__webpack_require__(/*! ./pages/lists/lists.vue */ "C:\\Users\\Administrator.EBQE09GQ7ZCT755\\Documents\\HBuilderProjects\\hello\\pages\\lists\\lists.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+createPage(_lists.default);
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ "./node_modules/@dcloudio/uni-mp-weixin/dist/index.js")["createPage"]))
+
+/***/ }),
+
 /***/ "C:\\Users\\Administrator.EBQE09GQ7ZCT755\\Documents\\HBuilderProjects\\hello\\pages.json":
 /*!******************************************************************************************!*\
   !*** C:/Users/Administrator.EBQE09GQ7ZCT755/Documents/HBuilderProjects/hello/pages.json ***!

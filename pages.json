@@ -24,6 +24,10 @@
 				"navigationBarTitleText":"addMsg"
 			}
         }
+        ,{
+            "path" : "pages/lists/lists",
+            "style" : {}
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
